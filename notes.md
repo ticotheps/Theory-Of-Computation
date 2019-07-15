@@ -18,7 +18,7 @@ on with the machine.
 conditional branching (i.e. - if/else statements) and can store variables
 in memory.
 
--16 GB of RAM (memory) = 16 billion small cells of memory storage
+-16 GB of RAM (memory) = 16 billion small cells (bytes) of memory storage
 -2.2 Ghz processing speed = 2.2 billion operations/second
 
 # How much memory does an array take up in memory?
