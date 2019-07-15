@@ -39,3 +39,11 @@ in memory.
 
 -It is extremely slow.
 -ALWAYS build arrays from the back.
+
+# BIG O Notation for Arrays
+
+-Inserting at the end of an array: O(1) average (O(n) worst case)
+-Inserting at the beginning of an array: O(n) average b/c you must copy,
+shift right n space, THEN add the new item.
+
+# Arrays are extremely time and space efficient
